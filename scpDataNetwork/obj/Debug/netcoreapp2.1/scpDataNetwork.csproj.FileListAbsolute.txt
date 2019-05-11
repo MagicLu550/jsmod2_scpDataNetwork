@@ -1,0 +1,11 @@
+C:\Users\lenovo\RiderProjects\net.noyark.scpsl\scpDataNetwork\obj\Debug\netcoreapp2.1\scpDataNetwork.csprojAssemblyReference.cache
+C:\Users\lenovo\RiderProjects\net.noyark.scpsl\scpDataNetwork\obj\Debug\netcoreapp2.1\scpDataNetwork.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\RiderProjects\net.noyark.scpsl\scpDataNetwork\obj\Debug\netcoreapp2.1\scpDataNetwork.AssemblyInfoInputs.cache
+C:\Users\lenovo\RiderProjects\net.noyark.scpsl\scpDataNetwork\obj\Debug\netcoreapp2.1\scpDataNetwork.AssemblyInfo.cs
+C:\Users\lenovo\RiderProjects\net.noyark.scpsl\scpDataNetwork\bin\Debug\netcoreapp2.1\scpDataNetwork.deps.json
+C:\Users\lenovo\RiderProjects\net.noyark.scpsl\scpDataNetwork\bin\Debug\netcoreapp2.1\scpDataNetwork.runtimeconfig.json
+C:\Users\lenovo\RiderProjects\net.noyark.scpsl\scpDataNetwork\bin\Debug\netcoreapp2.1\scpDataNetwork.runtimeconfig.dev.json
+C:\Users\lenovo\RiderProjects\net.noyark.scpsl\scpDataNetwork\bin\Debug\netcoreapp2.1\scpDataNetwork.dll
+C:\Users\lenovo\RiderProjects\net.noyark.scpsl\scpDataNetwork\bin\Debug\netcoreapp2.1\scpDataNetwork.pdb
+C:\Users\lenovo\RiderProjects\net.noyark.scpsl\scpDataNetwork\obj\Debug\netcoreapp2.1\scpDataNetwork.dll
+C:\Users\lenovo\RiderProjects\net.noyark.scpsl\scpDataNetwork\obj\Debug\netcoreapp2.1\scpDataNetwork.pdb
