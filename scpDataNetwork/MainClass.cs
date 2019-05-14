@@ -28,12 +28,6 @@ namespace scpDataNetwork
     )]
     class MainClass : Plugin
     {
-        public static void Main(string[]args)
-        {
-            ip = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 19935);//connect the java smod2
-            socket = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
-            new MainClass().sendPacket(new ClosePacket());
-        }
         private static IPEndPoint ip;
         
         private static MainClass main;
@@ -60,7 +54,7 @@ namespace scpDataNetwork
             }
 
             StreamReader reader = File.OpenText(@"../jsmod2/conn.properties");
-            String msg = null;
+            String msg;
             while ((msg = reader.ReadLine())!=null)
             {
                 if (msg.StartsWith("port:"))
